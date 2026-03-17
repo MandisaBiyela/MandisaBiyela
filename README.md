@@ -1,8 +1,20 @@
-# Hi there 👋, I'm Mandisa Biyela
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mandisa%20Biyela&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💻 ICT Application Development Student | Aspiring Software Developer  
-🤖 Interested in AI, IoT & Smart Systems  
-🚀 Builder of real-world systems & digital solutions  
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ICT+Developer;AI+%7C+IoT+%7C+Smart+Systems;Building+Solutions+for+Impact;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+</p>
+
+---
+
+## 👋 Hi there, I'm Mandisa Biyela
+
+💻 ICT Application Development Student  
+🤖 AI | IoT | Smart Systems Enthusiast  
+🚀 Builder of real-world systems  
 📍 Durban, South Africa  
 
 ---
@@ -11,104 +23,131 @@
 
 I am a passionate developer focused on building impactful digital solutions that solve real-world problems.
 
-From growing up in rural KwaZulu-Natal to studying ICT, my curiosity about how software works has driven me to create systems that improve everyday life — especially in African communities.
+From growing up in rural KwaZulu-Natal to studying ICT, my curiosity about software has driven me to create systems that improve everyday life — especially in African communities.
 
-Alongside my studies, I am actively involved in research and development within robotics, AI, and IoT systems, where I collaborate on experimental projects and prototypes, including automation and facial recognition solutions.
-
-I enjoy working on:
-- 💡 Web Applications & SaaS Platforms  
-- 📊 Data-driven Systems  
-- 🌍 Tech-for-impact solutions  
-- 🧠 Problem-solving & system design  
+I am actively involved in:
+- 🔬 Research in AI, IoT & Robotics  
+- ⚙️ Building real-world systems & prototypes  
+- 🧠 Solving complex problems through technology  
 
 ---
 
-## 🔗 My Portfolio
+## 🌐 Portfolio
 
-🌐 **Check out my work here:**  
-👉 https://mandisaportfolio.lovable.app
+<p align="center">
+  <a href="https://mandisaportfolio.lovable.app">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-- C# (.NET / ASP.NET Core)
-- JavaScript / TypeScript
-- Python (FastAPI)
-- React / Next.js
-- HTML5  
+<p align="center">
 
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Docker  
-- VS Code  
-- REST APIs  
-- Power BI  
-- Microsoft 365  
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,react,nextjs,html,docker,git,github,vscode"/>
+
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 🔹 ICT Intern — Ndabase Printing Solutions  
-- Assisted in developing and maintaining internal systems  
-- Troubleshot and debugged software issues  
-- Worked with structured data and databases  
-- Collaborated with teams to build practical business solutions  
+🔹 **ICT Intern — Ndabase Printing Solutions**  
+- Developed and maintained internal systems  
+- Debugged and improved software performance  
+- Worked with databases and structured data  
 
-### 🔹 Advanced Robotics & Mechatronic Systems Lab  
-- Conduct research in AI, IoT, and smart systems  
-- Contribute to experimental prototypes and automation systems  
-- Explore technologies like facial recognition  
+🔹 **Robotics & Mechatronic Systems Lab**  
+- Research in AI, IoT, and automation  
+- Built experimental prototypes  
+- Explored facial recognition systems  
 
-### 🔹 Mentor & Facilitator — DUT  
-- Mentored learners in research projects  
-- Evaluated innovation and provided constructive feedback  
-- Built strong communication and leadership skills  
+🔹 **Mentor & Facilitator — DUT**  
+- Guided student research projects  
+- Evaluated innovation and solutions  
+- Strengthened leadership and communication  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **PulsePay**  
-Portable IoT + NFC payment system for Africa with offline support and fraud detection  
+💡 **PulsePay**  
+> IoT + NFC payment system for Africa with offline capability  
 
-🔹 **IT Helpdesk System**  
-Ticket-based support system for managing issues and workflows  
+🛠️ **IT Helpdesk System**  
+> Ticket-based issue tracking and workflow system  
 
-🔹 **Student Progress System**  
-Tracks academic performance and student data  
+📊 **Student Progress System**  
+> Academic tracking and analytics platform  
 
-🔹 **King-G System**  
-Custom TypeScript-based application system  
+⚙️ **King-G System**  
+> TypeScript-based custom system  
 
-✨ *And more on my portfolio...*
+✨ *More projects on my portfolio*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MandisaBiyela&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandisaBiyela&layout=compact&theme=tokyonight" height="160"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MandisaBiyela&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MandisaBiyela/MandisaBiyela/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable SaaS applications  
-- Improving backend systems with .NET & APIs  
-- Exploring cloud & DevOps (AWS, Docker)  
-- Contributing to real-world tech solutions  
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandisaBiyela&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandisaBiyela&layout=compact&theme=tokyonight)
+- 🚀 Building scalable SaaS systems  
+- ⚙️ Backend development with .NET & APIs  
+- ☁️ Exploring Cloud & DevOps (AWS, Docker)  
+- 🌍 Tech-for-impact solutions  
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: mandisajali379@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nokuphila-mandisa-biyela-4573b0293  
+<p align="center">
+
+<a href="mailto:mandisajali379@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nokuphila-mandisa-biyela-4573b0293">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
+## 💬 Quote
+
 ⭐ *“Building solutions that matter, one line of code at a time.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer"/>
+</p>
