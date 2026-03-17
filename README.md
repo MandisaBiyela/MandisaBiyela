@@ -10,7 +10,7 @@
 
 I am a passionate developer focused on building impactful digital solutions that solve real-world problems.
 
-From growing up in rural KwaZulu-Natal to studying ICT, my curiosity about how software works has driven me to create systems that improve everyday life — especially in African communities.
+From growing up in rural KwaZulu-Natal to studying ICT, my curiosity about how software works has driven me to create systems that improve everyday life,  especially in African communities.
 
 I enjoy working on:
 - 💡 Web Applications & SaaS Platforms  
